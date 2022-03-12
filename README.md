@@ -26,7 +26,7 @@ you automatize the process?
 >Publishing a POST or PUT Methods api to upload a file an update the
 records based on that data
 
-<h2> Part1: Works Single View API</h2>
+<h2> Part2: Works Single View API</h2>
 
 Navigate to *https://127.0.0.1:8000/meta/<iswc>/* where iswc is 
 iswc code from the work. i.e. *http://127.0.0.1:8000/meta/T0101974597/*
